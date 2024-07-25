@@ -1,1 +1,1 @@
-Implementing LoRA (Low-Rank Adaptation) module for different models
+Implementing LoRA (Low-Rank Adaptation) for different models
